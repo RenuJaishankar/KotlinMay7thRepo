@@ -19,7 +19,7 @@
 // All data types are declared capitalized
 
 // TODO: list types
-
+//This is a Kotlin program
 // like Java however, Kotlin requires an entry point for your code to run
 fun myFunction(){
     println("this function  works fine")
